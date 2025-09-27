@@ -2,7 +2,7 @@
   "name": "sketchbook-color-theme",
   "displayName": "sketchbook_color_theme",
   "description": "Bring back the joy of a child’s sketchbook with this lighthearted pastel VSCode theme. Simple colors, bold contrasts, and a touch of nostalgia.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.104.0"
   },

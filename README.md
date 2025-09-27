@@ -7,9 +7,9 @@ A lighthearted pastel VSCode theme with **simple colors, bold contrasts, and a t
 
 ## 📷 Screenshots
 
-![Editor Screenshot](assets/image1.png)
+![Screenshot1](assets/image1.png)
 
-![Sidebar Screenshot](assets/image2.png)
+![Screenshot2](assets/image2.png)
 
 ---
 
