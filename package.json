@@ -1,11 +1,17 @@
 {
   "name": "sketchbook-color-theme",
-  "displayName": "Sketchbook_color_theme",
+  "displayName": "sketchbook_color_theme",
   "description": "Bring back the joy of a child’s sketchbook with this lighthearted pastel VSCode theme. Simple colors, bold contrasts, and a touch of nostalgia.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.104.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaeKyungg2/sketchbook-color-theme.git"
+  },
+  "publisher": "taery",
+  "icon": "assets/sket_icon.png",
   "categories": [
     "Themes"
   ],

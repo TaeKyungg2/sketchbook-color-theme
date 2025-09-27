@@ -2,37 +2,40 @@
   "name": "sketchbook-color-theme",
   "type": "light",
   "colors": {
-    "editor.background": "#ffe8da",
-    "editor.foreground": "#cdd6f4",
+        "editor.background": "#ffe8da",
+    "editor.foreground": "#3f6cff",
     "editorCursor.foreground": "#f38ba8",
     "editor.lineHighlightBackground": "#ffc95d",
     "editor.selectionBackground": "#ffc0eb",
 
-    // 전체 메뉴바/타이틀바
-    "titleBar.activeBackground": "#ffcb63",
-    "titleBar.activeForeground": "#cdd6f4",
-    "titleBar.inactiveBackground": "#11111b",
-    "titleBar.inactiveForeground": "#a6adc8",
+      // 전체 메뉴바/타이틀바
+    "titleBar.activeBackground": "#ffcb63",   // 활성 윈도우 메뉴바 배경
+    "titleBar.activeForeground": "#000000",   // 활성 윈도우 메뉴바 글자
+    "titleBar.inactiveBackground": "#11111b", // 비활성 창 배경
+    "titleBar.inactiveForeground": "#a6adc8", // 비활성 창 글자
 
     // 사이드바
-    "sideBar.background": "#008fdd",
+    "sideBar.background": "#ff9fd6e4",
     "sideBar.foreground": "#ffffff",
-    //"list.foreground": "#ffffff",
-    "list.inactiveSelectionForeground": "#ffffff",
-    "list.activeSelectionForeground": "#ffffff",
-    "list.hoverForeground": "#ffffff",
-    "list.focusForeground": "#ffffff",
+    "list.foreground": "#ffffff",
+    "list.inactiveSelectionForeground": "#ffffff", // 비활성 선택 항목
+    "list.activeSelectionForeground": "#ffffff",   // 활성 선택 항목
+    "list.hoverForeground": "#ffffff",             // 마우스 올렸을 때
+    "list.focusForeground": "#ffffff",              // 포커스 맞췄을 때
 
-    // 상태바
+    // 상태바 (맨 아래)
     "statusBar.background": "#a7d6ff",
-    "statusBar.foreground": "#01b8e6",
-
-    // Activity Bar
+    "statusBar.foreground": "#00637c",
+    // Activity Bar 전체 배경   
     "activityBar.background": "#b6b6ff",
-    "activityBar.foreground": "#008a35",
-    "activityBar.inactiveForeground": "#7f849c",
-    "activityBar.activeBorder": "#f38ba8",
-    "activityBar.activeBackground": "#6905bb",
+    "activityBar.foreground": "#008a35",       // 아이콘 색
+    "activityBar.inactiveForeground": "#7f849c", // 비활성 아이콘 색
+
+    // 현재 선택된 아이콘 강조
+    "activityBar.activeBorder": "#f38ba8",     // 선택된 아이콘 왼쪽/아래 테두리
+    "activityBar.activeBackground": "#6905bb", // 선택된 아이콘 배경 (옵션)
+
+    // Activity Bar의 배지(예: Git 변경 파일 개수 표시)
     "activityBarBadge.background": "#f38ba8",
     "activityBarBadge.foreground": "#ffffff"
   },
@@ -77,7 +80,7 @@
       "name": "Keywords",
       "scope": ["keyword", "storage"],
       "settings": {
-        "foreground": "#f38ba8"
+        "foreground": "#d7597d"
       }
     },
     {

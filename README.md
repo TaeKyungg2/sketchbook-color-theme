@@ -1,16 +1,20 @@
-# sketchbook-color-theme README
+# 🖼️ Sketchbook Color Theme
 
-## Working with Markdown
+Bring back the joy of a child’s sketchbook 🎨  
+A lighthearted pastel VSCode theme with **simple colors, bold contrasts, and a touch of nostalgia.**
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## 📷 Screenshots
 
-## For more information
+![Editor Screenshot](assets/image1.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Sidebar Screenshot](assets/image2.png)
 
-**Enjoy!**
+---
+
+## 🚀 Installation
+
+1. Open **Extensions Marketplace** in VSCode  
+2. Search for `Sketchbook Color Theme`  
+3. Click **Install** and select the theme from the Command Palette.
