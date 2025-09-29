@@ -2,6 +2,7 @@
 
 Bring back the joy of a child’s sketchbook 🎨  
 A lighthearted pastel VSCode theme with **simple colors, bold contrasts, and a touch of nostalgia.**
+The ipynb theme is also set up.
 
 ---
 

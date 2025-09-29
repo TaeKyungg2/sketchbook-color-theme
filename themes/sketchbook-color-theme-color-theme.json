@@ -2,7 +2,7 @@
   "name": "sketchbook-color-theme",
   "type": "light",
   "colors": {
-        "editor.background": "#ffe8da",
+    "editor.background": "#ffe8da",
     "editor.foreground": "#3f6cff",
     "editorCursor.foreground": "#f38ba8",
     "editor.lineHighlightBackground": "#ffc95d",
@@ -37,7 +37,14 @@
 
     // Activity Bar의 배지(예: Git 변경 파일 개수 표시)
     "activityBarBadge.background": "#f38ba8",
-    "activityBarBadge.foreground": "#ffffff"
+    "activityBarBadge.foreground": "#ffffff",
+
+    // 코드 셀 배경
+    "notebook.cellEditorBackground": "#91d3ff2d",
+    // 선택된 셀 배경
+    "notebook.focusedCellBackground": "#ffd33452",
+    // 출력 영역 배경
+    "notebook.outputContainerBackgroundColor": "#16ff833d",
   },
   "tokenColors": [
     {
@@ -87,7 +94,8 @@
       "name": "Types",
       "scope": ["storage.type", "support.type"],
       "settings": {
-        "foreground": "#7A3E9D"
+        "fontStyle": "italic",
+        "foreground": "#ef7f00"
       }
     },
     {
@@ -98,22 +106,21 @@
         "variable.language"
       ],
       "settings": {
-        "foreground": "#AB6526"
+        "foreground": "#b16018"
       }
     },
     {
       "name": "Variables",
       "scope": ["variable", "support.variable"],
       "settings": {
-        "foreground": "#7A3E9D"
+        "foreground": "#00923f"
       }
     },
     {
       "name": "Functions",
       "scope": ["entity.name.function", "support.function"],
       "settings": {
-        "fontStyle": "bold",
-        "foreground": "#AA3731"
+        "foreground": "#ee41da"
       }
     },
     {
@@ -125,7 +132,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#7A3E9D"
+        "foreground": "#f76700"
       }
     },
     {
@@ -139,14 +146,14 @@
       "name": "Numbers, Characters",
       "scope": ["constant.numeric", "constant.character", "constant"],
       "settings": {
-        "foreground": "#AB6526"
+        "foreground": "#326cff"
       }
     },
     {
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#00c0d5"
+        "foreground": "#00b2c6"
       }
     },
     {
