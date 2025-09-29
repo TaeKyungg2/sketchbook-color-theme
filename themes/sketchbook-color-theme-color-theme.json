@@ -134,6 +134,23 @@
         "fontStyle": "bold",
         "foreground": "#f76700"
       }
+    },//
+    {
+      "name": "Python: Class Constructor Calls",
+      "scope": ["meta.member.access.python"],
+      "settings": {
+        "foreground": "#8c00f1" // 원하는 색상
+      }
+    },
+    {
+      "name": "Python: Class Constructor Calls",
+      "scope": [
+        "meta.function-call.generic.python",
+        //"meta.function-call.python"
+      ],
+      "settings": {
+        "foreground": "#209600" // 원하는 색상
+      }
     },
     {
       "name": "Exceptions",
