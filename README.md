@@ -9,7 +9,6 @@ The ipynb theme is also set up.
 ## 📷 Screenshots
 
 ![Screenshot1](assets/image1.png)
-
 ![Screenshot2](assets/image2.png)
 
 ---
