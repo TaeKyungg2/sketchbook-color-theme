@@ -10,6 +10,7 @@ The ipynb theme is also set up.
 
 ![Screenshot1](assets/image1.png)
 ![Screenshot2](assets/image2.png)
+![screenshot](assets/image3.png)
 ![note](assets/notebook.JPG)
 ---
 

@@ -3,7 +3,7 @@
   "type": "light",
   "colors": {
     "editor.background": "#ffe8da",
-    "editor.foreground": "#3f6cff",
+    "editor.foreground": "#000000",
     "editorCursor.foreground": "#f38ba8",
     "editor.lineHighlightBackground": "#ffc95d",
     "editor.selectionBackground": "#ffc0eb",
@@ -17,7 +17,6 @@
     // 사이드바
     "sideBar.background": "#ff9fd6e4",
     "sideBar.foreground": "#ffffff",
-    "list.foreground": "#ffffff",
     "list.inactiveSelectionForeground": "#ffffff", // 비활성 선택 항목
     "list.activeSelectionForeground": "#ffffff",   // 활성 선택 항목
     "list.hoverForeground": "#ffffff",             // 마우스 올렸을 때
@@ -53,6 +52,14 @@
       "settings": {
         "fontStyle": "italic",
         "foreground": "#a6adc8"
+      }
+    },
+    {
+      "name": "Markdown",
+      "scope": ["comment", "text.html,","meta.paragraph.markdown"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#460057"
       }
     },
     {
@@ -210,14 +217,14 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#91B3E0"
+        "foreground": "#f08000"
       }
     },
     {
       "name": "HTML: Tag Names",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#4B83CD"
+        "foreground": "#079500"
       }
     },
     {
@@ -228,7 +235,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#91B3E0"
+        "foreground": "#0087c5"
       }
     },
     {
